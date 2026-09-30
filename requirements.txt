@@ -1,0 +1,8 @@
+telethon
+ollama
+streamlit
+plotly
+pandas
+numpy
+python-dotenv
+ddgs

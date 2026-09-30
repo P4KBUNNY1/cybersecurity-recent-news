@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.session
+*.session-journal
+# Your data and logs (folders are kept via .gitkeep)
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
